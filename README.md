@@ -1,2 +1,2 @@
-# Rock Paper Scissors
-Rock Paper Scissors Lizard Spock in Python 3
+# Rock Paper Scissors Lizard Spock
+Coded in Python 3
